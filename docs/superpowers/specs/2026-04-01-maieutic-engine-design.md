@@ -440,3 +440,8 @@ MCP config in `.claude/settings.local.json`:
 ```
 
 Skill installed to project or user skill directory, triggerable by `/maieutic`, `/socratic`, or natural language.
+
+## Acknowledgements
+
+- **Elder, Linda & Paul, Richard.** *The Thinker's Guide to The Art of Socratic Questioning.* Foundation for Critical Thinking, 2006. — Provided the taxonomy of Socratic questions based on the 8 Elements of Thought and Universal Intellectual Standards that form the questioning engine's theoretical foundation.
+- **Berryman, John & Ziegler, Albert.** *Prompt Engineering for LLMs: The Art and Science of Building Large Language Model-Based Applications.* O'Reilly Media, 2024. — Informed the technical architecture through Chain of Thought, ReAct, Reflexion, Branch-Solve-Merge, and context management patterns for LLM-based agents.
