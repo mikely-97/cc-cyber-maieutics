@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "maieutic-engine": {
+      "command": "node",
+      "args": ["/home/mike/Documents/grimoires/cc-cyber-maieutics/plugin/dist/index.js"],
+      "env": {
+        "MAIEUTIC_DB_DIR": ".maieutic"
+      }
+    }
+  }
+}
